@@ -2,7 +2,6 @@
 - 👀 I’m interested in Biotechnology 🧬 and Programming 🤓
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Website Projects!
-- 📫 How to reach me on LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love TikTok ASMR videos
 
